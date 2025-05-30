@@ -34,3 +34,4 @@ sumber daya `hello-node` tidak muncul dalam hasil. Ini karena namespace `kube-sy
 3. Isolasi yang Jelas: Sumber daya di namespace berbeda tidak saling terlihat kecuali jika diakses secara eksplisit.  
 
 ---
+
